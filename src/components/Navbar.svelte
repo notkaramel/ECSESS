@@ -25,7 +25,7 @@
 
 <style lang="postcss">
     nav {
-        @apply flex justify-between items-center;
+        @apply flex justify-between items-center flex-wrap;
         @apply bg-emerald-800 text-white;
     }
 </style>
