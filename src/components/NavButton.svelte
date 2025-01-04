@@ -4,8 +4,8 @@
 </script>
 
 <a {href}>
-    <Button.Root class="font-semibold text-white
-            px-4 py-2 m-1 rounded-md border-none">
+    <Button.Root class="font-semibold text-content
+            px-6 py-1 border-b-2 border-secondary hover:border-primary active:border-accent hover:rounded-sm transition-all">
         <slot />
     </Button.Root>
 </a>
