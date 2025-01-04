@@ -8,6 +8,13 @@ export default {
   theme: {
     extend: {
       // See https://daisyui.com/docs/colors/#-2 for inspiration
+      // From ECSESS's Canva:
+      // #71847d shadowy teal
+      // #0a5609 bold forest green
+      // #054010 bold and dark forest green
+      // #8eab8d light soft green
+      // #497b49 greeeeen (a bit pastel-y)
+      // #c3ccc3 greenish grey
       colors: {
         "primary": "#4F784F",
         "secondary": "#BBCFBB",
